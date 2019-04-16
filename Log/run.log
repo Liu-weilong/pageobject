@@ -1,0 +1,8 @@
+2019-04-15 17:40:12 remote_connection.py [line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "Android", "appium:platforVersion": "7.1.2", "appium:deviceName": "127.0.0.1:62026", "appium:app": "D:\\360Downloads\\app-release(17).apk", "appium:appPackage": "com.spread", "appium:appActivity": "com.spread.MainActivity", "appium:noReset": false, "appium:ip": "127.0.0.1", "appium:port": 4723, "appium:unicodeKeyboard": true, "appium:resetKeyboard": true}]}, "desiredCapabilities": {"platformName": "Android", "platforVersion": "7.1.2", "deviceName": "127.0.0.1:62026", "app": "D:\\360Downloads\\app-release(17).apk", "appPackage": "com.spread", "appActivity": "com.spread.MainActivity", "noReset": false, "ip": "127.0.0.1", "port": 4723, "unicodeKeyboard": true, "resetKeyboard": true}}
+2019-04-15 17:40:12 connectionpool.py [line:205] DEBUG Starting new HTTP connection (1): 127.0.0.1:4723
+2019-04-15 17:42:05 connectionpool.py [line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session HTTP/1.1" 200 992
+2019-04-15 17:42:05 remote_connection.py [line:440] DEBUG Finished Request
+2019-04-15 17:42:05 remote_connection.py [line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/acf9da95-3392-46d0-89da-25900e93ab41/timeouts {"implicit": 5000, "sessionId": "acf9da95-3392-46d0-89da-25900e93ab41"}
+2019-04-15 17:42:05 connectionpool.py [line:205] DEBUG Starting new HTTP connection (1): 127.0.0.1:4723
+2019-04-15 17:42:05 connectionpool.py [line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/acf9da95-3392-46d0-89da-25900e93ab41/timeouts HTTP/1.1" 200 14
+2019-04-15 17:42:05 remote_connection.py [line:440] DEBUG Finished Request

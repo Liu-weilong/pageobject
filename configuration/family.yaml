@@ -1,0 +1,13 @@
+platformName: Android
+platforVersion: 7.1.2
+deviceName: 127.0.0.1:62026
+app: D:\360Downloads\app-release(17).apk
+appPackage: com.spread
+appActivity: com.spread.MainActivity
+noReset: False
+ip: 127.0.0.1
+port: 4723
+unicodeKeyboard: True
+resetKeyboard: True
+
+
